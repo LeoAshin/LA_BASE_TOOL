@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  la.web.starter.GlobalResponseAdvice,\
+  la.web.starter.FastJsonConverter,\
+  la.web.starter.LogInterceptorConfig
